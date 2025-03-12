@@ -44,7 +44,7 @@ CSITSS 2025 is a premier forum for researchers, practitioners, and educators to 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/csitss-2025.git
+git clone https://github.com/PriyankaacharyaTR/IEEE-web-dev-csitss.git
 cd csitss-2025
 ```
 
@@ -111,7 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Conference Email - contact@csitss2025.org
+Conference Email - priyankatr.is23@rvce.edu.in
 
 ## Acknowledgments
 
